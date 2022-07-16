@@ -1,0 +1,15 @@
+body{
+    background-image: url('jameswebb.jpg');
+    background-size: cover;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+}
+#countdownStatus{
+    font-size: 3em;
+    font-style: oblique;
+    font-weight: bold;
+    text-decoration: underline;
+}
+#paraFunc{
+    color: azure;
+}
